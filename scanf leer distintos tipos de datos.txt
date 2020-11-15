@@ -1,0 +1,10 @@
+Format Specifiers for Reading Data
+----------------------------------
+
+Action                               Required control string
+------------------------------------------------------------
+To read a value of type short        %hd
+To read a value of type int          %d
+To read a value of type long         %ld
+To read a value of type float        %f o %e
+To read a value of type double       %lf o %le
